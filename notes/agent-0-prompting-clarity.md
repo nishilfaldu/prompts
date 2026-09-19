@@ -1,6 +1,6 @@
 # Prompting: clarity is table stakes, not the main problem
 
-Source: discussion with Instinct, Sep 16 2026.
+Source: discussion with Instinct, Sep 16 2026. Updated Sep 18 2026.
 
 ## The question
 
@@ -15,6 +15,16 @@ No. Clarity is table stakes. Three problems beat it:
 2. **The verification loop matters more than the prompt.** A vague prompt with tests/lint/CI beats a perfect prompt with nothing, because the agent can self-correct. Gates > prose. (This one is solvable via pstack or manually.)
 
 3. **It is one-way.** "Not confusing if presented clearly" is true of people too, but people ask back. Agents mostly do not, so the prompt has to be complete on the first shot.
+
+## A useful follow-up question
+
+Asking the agent why it recommends an approach, or why it would choose one option over another, has yielded good results. It makes the agent expose the tradeoffs behind its recommendation instead of giving only a conclusion.
+
+Useful forms:
+
+- Why do you recommend this?
+- Why would you choose this over the alternatives?
+- What tradeoffs led you to that choice?
 
 ## Solving 1 - unwritten context
 
