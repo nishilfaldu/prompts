@@ -1,0 +1,1 @@
+Disable page-level rubber-band overscroll with `overscroll-behavior: none` only inside `@media (pointer: fine)`. Keep native touch scrolling and mobile pull-to-refresh unchanged. Check that normal scrolling, nested scroll areas, and touch behavior on hybrid devices still work.
