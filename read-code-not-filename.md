@@ -1,0 +1,1 @@
+Lesson: the hottest file in the profile was named bundle-mjs-…js, which looked like the tailwind-merge package. Reading the actual hot functions showed it was remend. The bundler had merged both into one chunk. Always read the code, not the file name.
