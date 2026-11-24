@@ -1,6 +1,6 @@
 # Home Finder
 
-Three prompts for the home-finder experience, discovered November 23, 2026, plus the learning behind them.
+Three prompts for the home-finder experience, discovered November 23, 2026, plus the learning behind them. Prompt 4 was added later as a general learning-explanation line.
 
 ## Prompt 1: Simple, felt deeply
 
@@ -15,6 +15,12 @@ First run produced a lovely UI.
 ## Prompt 3: The listing detail sheet
 
 > Design the experience so opening a home feels like: "The more I explore, the more I can picture my life here." Clicking a listing should open a rich detail sheet, like opening a home on Airbnb. Use the depth of the listing's data to help someone understand the home, not to show them a database. Keep calculation-only fields behind the scenes, bring the most meaningful details forward, and let the rest unfold as their curiosity grows.
+
+## Prompt 4: Explaining so it clicks
+
+From an X post by gabriel (@gabriel1), added November 24, 2026. A line to add when learning:
+
+> explain extremely bottoms up, in plain simple english, in a way that is extremely simple to read once and then you get it. i should have a strong feeling of 'wow i really get it this time' after reading
 
 ## Learning
 
